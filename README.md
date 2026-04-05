@@ -20,3 +20,6 @@ Using Pandas & Matplotlib, additional charts were generated for exploratory data
 1. Pie Charts → Sales by Fat Content & Outlet Size
 2. Bar Charts → Sales By Item Type & Location Type
 3. Line Charts → Sales trend over years
+
+## Dashboard Demo
+https://github.com/ApurvaPandita/Blinkit_Sales_Analysis/blob/main/Blinkit_Store_Analysis.pdf
