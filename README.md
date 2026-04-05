@@ -21,6 +21,4 @@ Using Pandas & Matplotlib, additional charts were generated for exploratory data
 2. Bar Charts → Sales By Item Type & Location Type
 3. Line Charts → Sales trend over years
 
-## Dashboard Demo
-![Alt Text](C:\Users\hp\OneDrive\Desktop\POWER BI\Snapshot of Blinkit Dashboard)
-(https://github.com/ApurvaPandita/Blinkit_Sales_Analysis/blob/main/Snapshot%20of%20Dashboard.png)
+
