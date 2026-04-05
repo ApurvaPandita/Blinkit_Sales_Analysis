@@ -22,4 +22,4 @@ Using Pandas & Matplotlib, additional charts were generated for exploratory data
 3. Line Charts → Sales trend over years
 
 ## Dashboard Demo
-https://github.com/ApurvaPandita/Blinkit_Sales_Analysis/blob/main/Blinkit_Store_Analysis.pdf
+(https://github.com/ApurvaPandita/Blinkit_Sales_Analysis/blob/main/Snapshot%20of%20Dashboard.png)
