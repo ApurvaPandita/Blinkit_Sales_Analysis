@@ -58,7 +58,7 @@ Blinkit operates a diverse network of grocery stores and supermarkets across Tie
 - **Medium-sized outlets** are the most common (42.27%) and contribute the largest share of revenue.
 - **Fruits & Vegetables and Snack Foods** are the top-performing item categories ,followed by Household items.
 - **Low Fat products (₹776K)** outsell Regular fat products (₹425K), reflecting a health-conscious consumer trend.
-- **Outlet growth peaked in 2018 (₹205K)** and has since stabilized around ₹130–133K annually, suggesting market maturity.
+- **Outlet growth climbed steadily from 78K in 2012 to a peak of 205K in 2018** and has since stabilized around ₹130–133K annually, suggesting market maturity.
 - **Medium-sized outlets** dominate (42.27% of outlets), followed by Small (37.01%) and High (20.72%).
 
 ---
